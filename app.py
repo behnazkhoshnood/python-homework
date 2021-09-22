@@ -10,4 +10,3 @@ for row in range(12):
         print("#   #")
     elif row == 6:
         print()
-
